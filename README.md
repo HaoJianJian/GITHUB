@@ -3,9 +3,9 @@ Document
 
 
 //******************************************
-this program has only ont function 
+this program has only one function 
 
-you can focus on the loast page 
+you can focus on the last page 
 
 click on FINISH button will send an email to my mailbox 
 
