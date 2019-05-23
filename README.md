@@ -1,6 +1,13 @@
 # GITHUB 
-Document 
+Document
 
+update  2019.5.23
+
+I tried send an  email using GITHUB app ， but failed. 
+
+According to the error report, I know it was detected as spam by the anti-spam service.
+
+Looks like my anti-spam test failed.
 
 //******************************************
 this program has only one function 
