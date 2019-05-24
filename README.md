@@ -9,6 +9,15 @@ According to the error report, I know it was detected as spam by the anti-spam s
 
 Looks like my anti-spam test failed.
 
+
+2019.5.24
+
+I looked through some of the data ,Probably know anti - spam detection principle ,
+
+This indicates that the subject and body of the message need to avoid duplication,
+
+and avoid frequent emailing , That's all .
+
 //******************************************
 this program has only one function 
 
